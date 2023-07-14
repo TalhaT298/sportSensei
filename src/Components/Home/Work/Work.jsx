@@ -18,7 +18,7 @@ const Work = () => {
       <img className="w-[320px]" src={line2} alt="" />
       <img className="w-[320px]" src={line3} alt="" />
       <img className="w-[320px]" src={line4} alt="" />
-    </div>
+    </div> 
   </div>
 </div>
 
